@@ -1,0 +1,22 @@
+# Agent/tooling infrastructure
+.agent/
+.agents/
+.codex/
+.local/
+opencode.json
+AGENTS.md
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE/workspace
+Espelt32.code-workspace
+.directory
+
+# Session/dev notes
+session*.txt
+mandatory rules
+gameschangesiwant.md
+supershortdoc.md
+projectcause.md
